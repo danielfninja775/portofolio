@@ -1,0 +1,321 @@
+
+
+.nav{
+padding-left: 700px;
+padding-top: 10px;
+background-color: #1c1f2e ;
+}
+
+
+
+.mainn p{
+text-align: center;
+  background-color: #1c1f2e;
+  width:100%;
+  margin-top: -50px;
+  padding: 30px;
+  opacity: 0.6;
+  padding-top: 35px;
+
+}
+.mainn img{
+width: 100%;
+height: 400px;
+margin-top: -240px;
+
+}
+
+.PixBox{
+margin-top: -10px;
+ background-color: #1c1f2e;
+  height: 88px;
+}
+.nome{
+
+   
+  margin-top: -195px;
+  color: #dcd8c6;
+  font-size: 30px;
+margin-left: 498px;
+}
+.PixBox img{
+
+
+
+
+
+
+
+
+
+
+}
+.PixBox h3{
+  padding-top: 30px;
+  margin-left: 558px;
+  font-family: 'Lucida handwriting',serif;
+  font-style: italic;
+
+}
+.PixBox h2{
+  margin-left: 538px;
+  margin-bottom: -80px;
+  margin-top: -45px;
+  font-family: 'Courier New', cursive;
+color: #818283;
+}
+.PixBox a{
+  font-family: "Arial", serif;
+  font-size: 20px;
+width: 80%;
+margin-left: 100px;
+  background-color: #1c1f2e;
+  color: #dcd8c6;
+  border-radius: 4px;
+  padding:19px;
+display: flex;
+margin-top: -65px;
+
+}
+
+
+ .headline{
+padding-top:50px;
+text-align: center;
+font-size: 15px;
+height: 100px;
+padding-bottom: 70px;
+}
+  .headline a{
+color:white;
+
+  }
+
+
+   .services{
+    background-color:#1c1f2e;
+    height: 1px;
+margin-top: 50px;
+    width:100%;
+margin-bottom: 70px;
+text-align: center;
+
+}
+
+  .services h1{
+  width: 150px;
+  margin-left: 390px;
+  text-align: center;
+margin-top: 90px;
+color: white;
+font-size: 35px;
+font-family: 'Lucida handwriting',sans-serif;
+padding-top: 30px;
+
+}
+.servicesTypes a{
+    margin: 20px;
+    background-color:black ;
+    font-size: 16px;
+    margin-left: 170px;
+    width: 230px;
+    border-radius: 5px;
+    height: 80px;
+    padding-top: 20px;
+    }
+.servicesTypes{
+width: 100%;
+height: 120px;
+flex-direction: row;
+display: flex;
+color: rgb(219, 213, 213);
+margin-bottom: 00px;
+  }
+  .servicesTypes h2{
+ }
+.servicesTypes2{
+
+  }
+
+
+.contact h2{
+justify-content: center;
+align-items: center;
+align-self: center;
+}
+
+
+.project h1{
+  width: 200px;
+  margin-left: 380px;
+text-align: center;
+margin-top: 30px;
+color: #dcd8c6;
+background-color:#1c1f2e;
+font-family: 'Lucida handwriting',sans-serif;
+border-radius: 30px;
+padding: 7px;
+}
+
+.divisoria{
+
+
+  margin-top: 25px;
+
+  padding-bottom: 1px;
+}
+.divisoria a{
+margin-left: 320px;
+
+}
+.divisoria h2{
+  font-size: medium;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.ProjectPics{
+padding-top: 330px;
+flex-direction: row;
+margin-left: -40px;
+display: flex;
+padding-bottom: -5px;
+
+
+
+
+}
+.ProjectPics p{
+  margin-left: -140px;
+  margin-top: 80PX;
+  width: 90%;
+  height: 90px;
+  opacity: 0.4;
+
+
+ 
+  }
+  .ProjectPics1{
+    padding-top: 240px;
+    flex-direction: row;
+    margin-left: -40px;
+    display: flex;
+    padding-bottom: -10px;
+    
+  }
+  
+.ProjectPics1  img{
+align-items: center;
+width: 500px;
+height: 450px;
+padding-top: 50px;
+
+}
+.ProjectPics1 p {
+  margin-top: -60px;
+text-align: center;
+margin-bottom: 22px;
+
+}
+
+
+.img2{
+  z-index: 99;
+  margin-left:-245px ;
+transition: all 0.6s;
+width: 200px;
+height: 100px;
+}
+.img2:hover{
+  opacity: 1;
+  transform: scale(1.2);
+}
+.img3{
+  z-index: 99;
+  margin-left:-250px ;
+transition: all 0.6s;
+}
+.img3:hover{
+  opacity: 1;
+  transform: scale(1.2);
+}
+.img4{
+  transition: all 0.6s;
+  margin-left:-40px ;
+}
+.img4:hover{
+  z-index: 99;
+  opacity: 1;
+  transform: scale(1.2);
+
+}
+.img1{
+  z-index: 99;
+margin-left: -245px;
+z-index: 99;
+transition: all 0.6s;
+height: 100px;
+}
+
+.img1:hover{
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+
+.footer{
+  background-color: #1c1f2e ;
+  text-align: center;
+padding-top: 50px;
+  flex-direction: row;
+  display: flex;
+  padding-bottom: 80px;
+  z-index: 99;
+  position: absolute;
+margin-top: 90px;
+  transition: all 0.3s;
+  width: 100%;
+}
+.footer a{
+color: white;
+margin-left: 120px;
+font-size: 15px;
+align-self:center;
+
+}
+.footer a:hover{
+  opacity: 1;
+  transform: scale(1.5);
+}
+
+
+.iconsAndroid p{
+margin-left: 200px;
+flex-direction: row;
+}
+
+.iconsAndroid {
+  display: flex;
+margin-left: 190px;
+flex-direction: row;
+
+margin-bottom: -25px;
+}
+  .desk{
+    margin-left: 200px;
+  }
+  .icons {
+    display: flex;
+  margin-left: 190px;
+  flex-direction: row;
+margin-top: 50px;
+  margin-bottom: -25px;
+   }
+
+
+
+
+
+
+
+
